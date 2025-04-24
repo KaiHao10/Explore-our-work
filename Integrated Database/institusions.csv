@@ -1,0 +1,501 @@
+name,domains,web_pages,contact,location_id
+Southern Cross University,['scu.edu.au'],['http://www.scu.edu.au/'],"intapps@scu.edu.au, 6620 3876",1
+Griffith University,['griffith.edu.au'],['https://www.griffith.edu.au/']," 373 55560 , 373 53781 ",1
+Swinburne University of Technology,['swin.edu.au'],['http://www.swin.edu.au/'],,1
+Engineering Institute of Technology,['student.eit.edu.au'],['https://www.eit.edu.au/'],,1
+Marcus Oldham College,['marcusoldham.vic.edu.au'],['http://www.marcusoldham.vic.edu.au/'],,1
+Monash University,"['monash.edu', 'monash.edu.au']",['http://www.monash.edu/'],,1
+University of New England,['une.edu.au'],['http://www.une.edu.au/'],"deanunecom@une.edu,comsa@une.edu, 602-2807 , 602-5892, 602-2329",1
+Queensland University of Technology,['qut.edu.au'],['http://www.qut.edu.au/'],sa.hubengagement@qut.edu.au,1
+Federation University Australia,['federation.edu.au'],['http://federation.edu.au/'],internationaladmissions@federation.edu.au,1
+Macquarie University,['mq.edu.au'],['http://www.mq.edu.au/'],"alumni@mq.edu.au, 9850 6410",1
+Avondale University,['avondale.edu.au'],['http://www.avondale.edu.au/'],"+61 2 4980 2377 ,+61 2 4980 2251 ,+61 2 4980 2108",1
+University of the Sunshine Coast,['usc.edu.au'],['http://www.usc.edu.au/'],"+61 7 5430 2843 ,1800 778 839",1
+Australian Correspondence Schools,['acs.edu.au'],['http://www.acs.edu.au/'],"+61 7 5562 1088 , 07 5562 1088 ",1
+International College of Tourism and Hotel Management,['icthm.edu.au'],['http://www.icthm.edu.au/'],office@itm-college.eu,1
+Box Hill Institute,"['bhtafe.edu.au', 'boxhill.edu.au']","['http://www.bhtafe.edu.au', 'http://www.boxhill.edu.au']",,1
+James Cook University of North Queensland,['jcu.edu.au'],['http://www.jcu.edu.au/'],"enquiries@jcu.edu.au, 1800 028 998 - , 1800 050 763 - ",1
+University of Notre Dame Australia,['nd.edu.au'],['http://www.nd.edu.au/'],,1
+Royal Melbourne Institute of Technology,['rmit.edu.au'],['http://www.rmit.edu.au/'],,1
+University of New South Wales,['unsw.edu.au'],['http://www.unsw.edu.au/'],+61 2 9385 1000 ,1
+SP Jain School of Global Management,['spjain.org'],['https://www.spjain.org/'],,1
+Australian Defence Force Academy,['adfa.oz.au'],['http://www.adfa.oz.au/'],"adfa.manager@aafcans.gov.au, 02 7900 1221, 0700 - 1500",1
+Australian Maritime College,['amc.edu.au'],['http://www.amc.edu.au/'],"amc.marketing@utas.edu.au,+61386767017",1
+University of Western Sydney,['uws.edu.au'],['http://www.uws.edu.au/'],,1
+University of Western Australia,['uwa.edu.au'],['http://www.uwa.edu.au/'],+61 8 6488 3235 ,1
+Blue Mountains Hotel School,['hotelschool.com.au'],['http://www.hotelschool.com.au/'],,1
+Charles Darwin University,['cdu.edu.au'],['http://www.cdu.edu.au/'],"study@cdu.edu.au,study@cdu.edu.au, 1800 061 963, 1800 061 963",1
+Torrens University Australia,"['torrens.edu.au', 'tua.edu.au']",['https://www.torrens.edu.au']," 1300 575 803, 1300 209 112, 99 154 937 005",1
+Flinders University of South Australia,['flinders.edu.au'],['http://www.flinders.edu.au/'], 1300 354 633 ,1
+Western Sydney University,['westernsydney.edu.au'],['https://www.westernsydney.edu.au/'],"mypathway@westernsydney.edu.au, 9685 9860 ",1
+University of Newcastle,['newcastle.edu.au'],['http://www.newcastle.edu.au/'],"uonsenquiry@newcastle.edu.au,+61 2 4348 4000 ,+65 6221 3306 ,+65 6221 3307 ",1
+La Trobe University,['latrobe.edu.au'],['http://www.latrobe.edu.au/'],,1
+Edith Cowan University,['ecu.edu.au'],['http://www.ecu.edu.au/'],,1
+University of Wollongong,"['uow.edu.au', 'uowmail.edu.au']",['http://www.uow.edu.au/'],"futurestudents@uow.edu.au, 1300 367 869 ,+61 2 4221 3218 ",1
+University of Adelaide,['adelaide.edu.au'],['http://www.adelaide.edu.au/'],"admissions.online@adelaide.edu.au, 1300 294 092 ",1
+"Institute Of Technology, Australia",['iota.edu.au'],['http://www.iota.edu.au/'],+61-8-8212 6799,1
+Australian National University,['anu.edu.au'],['http://www.anu.edu.au/'],"future.student@anu.edu.au, 1800 620 032 ,+61 2 6125 7257",1
+Australian Catholic University,['acu.edu.au'],['http://www.acu.edu.au/'],+61 2 9739 2437,1
+Victoria University,['vu.edu.au'],['http://www.vu.edu.au/'],"+61 3 9919 4065,+61 3 9919 1164 , 83 776 954 731",1
+Central Queensland University,['cqu.edu.au'],['http://www.cqu.edu.au/'],"7 4930 9777 ,7 4936 1691 ",1
+Bond University,['bond.edu.au'],['http://www.bond.edu.au/'],"intlsupport@bond.edu.au,+61 7 5595 1024",1
+University of Technology Sydney,"['uts.edu.au', 'student.uts.edu.au']",['http://www.uts.edu.au/'],"industry@uts.edu.au,1300 275 887",1
+University of Sydney,"['sydney.edu.au', 'usyd.edu.au', 'uni.sydney.edu.au']",['http://sydney.edu.au/']," 1800 793 864 ,+61 2 8627 0010",1
+Deakin University,['deakin.edu.au'],['http://www.deakin.edu.au/'], 03 5227 1200 03 5227 1200 ,1
+Murdoch University,"['murdoch.edu.au', 'student.murdoch.edu.au']",['http://www.murdoch.edu.au/'],,1
+Charles Sturt University,['csu.edu.au'],['http://www.csu.edu.au/'],"firstnations@csu.edu.au, 0416 427 066, 1800 275 278 ",1
+Curtin University,['curtin.edu.au'],['http://www.curtin.edu.au/'], 1300 222 888 ,1
+University of Melbourne,"['unimelb.edu', 'unimelb.edu.au']",['http://www.unimelb.edu.au/'], 9035 5511 ,1
+Holmes Institute,['holmes.edu.au'],['http://www.holmes.edu.au/'],"dherfurt@csl.org, 80401-7042 , 720-496-1370 , 720-279-8992 ",1
+University of Tasmania,['utas.edu.au'],['http://www.utas.edu.au/'],"course.info@utas.edu.au, 13 8827 ",1
+Linuwel School,['linuwel.nsw.edu.au'],['http://www.linuwel.nsw.edu.au/'],,1
+University of South Australia,['unisa.edu.au'],['http://www.unisa.edu.au/']," 1300 148 812 ,+61 8 8302 7333 , 8302 5880 , 8302 0828 ",1
+Australian Lutheran College,['alc.edu.au'],['http://www.alc.edu.au/'],,1
+University of Queensland,['uq.edu.au'],['http://www.uq.edu.au/'],"admissions@uq.edu.au, 3365 2203, 3365 2061",1
+Batchelor Institute of Indigenous Tertiary Education,['nt.gov.au'],['http://www.nt.gov.au/batc/'],,1
+University of Canberra,['canberra.edu.au'],['http://www.canberra.edu.au/'],"pathways@canberra.edu.au,ucc.admissions@canberra.edu.au,ucc.studentservices@canberra.edu.au,+61 2 6201 2961 ,+61 2 6201 2961 ",1
+University of Southern Queensland,['usq.edu.au'],['http://www.usq.edu.au/']," 1800 007 252,+61 7 4631 5543",1
+St. George's University (Australia),['stgc.uwa.edu.au'],['https://stgc.uwa.edu.au/'],,1
+"Royal Danish Academy of Fine Arts, School of Architecture",['karch.dk'],['http://www.karch.dk/'],,5
+Knightsbridge University,['knightsbridgeuniversity.com'],['http://www.knightsbridgeuniversity.com/'],"admin@knightsbridgeuniversity.com,+45 5132 0457,+45 8647 9828",5
+VIA University College,['en.via.dk'],['https://en.via.dk/'],"via@via.dk,arib@via.dk,+45 87 55 00 00 , 30 77 30 47, 243723-,-1-2008-1-,+ 45 87 55 14 63 ",5
+Aalborg Business College,['ah.dk'],['http://www.ah.dk/'],,5
+Engineering College of Aarhus,['iha.dk'],['http://www.iha.dk/'],,5
+Danish University of Education,['dpu.dk'],['http://www.dpu.dk/'],"mscadmissions@adm.dtu.dk, 101 2800 , 30 06 09 46",5
+University of Southern Denmark - SDU,['sdu.dk'],['http://www.sdu.dk/'],"sdu@sdu.dk,+45 6550 1000 ,+45 3920 7777",5
+Southern Denmark Business School,['hhs.dk'],['http://www.hhs.dk/'],,5
+International People's College,['ipc.dk'],['http://www.ipc.dk/'],,5
+Roskilde University,['ruc.dk'],['http://www.ruc.dk/'],"ruc@ruc.dk,+45 4674 2000, 5798000418110 , 29 05 75 59",5
+Royal Danish School of Educational Sciences,['dlh.dk'],['http://www.dlh.dk/'],,5
+Royal School of Library and Information Science,['db.dk'],['http://www.db.dk/'],,5
+Aarhus Technical College,['ats.dk'],['http://www.ats.dk/'],,5
+Asmildkloster Agricultural School,['asmildkloster.dk'],['https://asmildkloster.dk/'],,5
+Royal Veterinary and Agricultural University,['kvl.dk'],['http://www.kvl.dk/'],,5
+Tietgen Business College,['tietgen.dk'],['http://www.tietgen.dk/'],"ts@tietgen.dk,+45 65 45 25 00 ,+45 65 45 21 99 ",5
+Engineering College of Copenhagen,['ihk.dk'],['http://www.ihk.dk/'],,5
+"Royal Danish Academy of Fine Arts, School of Visual Art",['kunstakademiet.dk'],['http://www.kunstakademiet.dk/'],,5
+Kal? ?kologisk Agricultural College,['videndjurs.dk'],['https://videndjurs.dk/'],"info@videndjurs.dk,+45 87 58 04 00 , 5798000554115 , 10520509",5
+University of Copenhagen,['ku.dk'],['http://www.ku.dk/'],"+4535336390,+4535332085,+4535336878",5
+Aarhus University,['au.dk'],['http://www.au.dk/'],"au@au.dk, 1 8000 ,+45 8715 0000, 31119103 ,-31119103",5
+Technical University of Denmark,['dtu.dk'],['http://www.dtu.dk/'],+45 45 25 11 99,5
+Danish Business Academy,['ddea.dk'],['http://www.ddea.dk/'],,5
+Copenhagen Business School,['cbs.dk'],['http://www.cbs.dk/'],"bacheloradmission@cbs.dk,+45 38152710 ",5
+Lutheran School Of Theology In Aarhus,['teologi.dk'],['http://www.teologi.dk/'],,5
+IT University of Copenhagen,['itu.dk'],['http://www.itu.dk/'],,5
+Aarhus School of Business,['hha.dk'],['http://www.hha.dk/'],,5
+Aalborg University,"['auc.dk', 'aau.dk', 'student.aau.dk']",['http://www.auc.dk/'],bachelor@aau.dk,5
+Royal Danish School of Pharmacy,['dfh.dk'],['http://www.dfh.dk/'],,5
+International Business School of Scandinavia,['ibss.eu'],['http://www.ibss.eu/'],,5
+Odense University,['ou.dk'],['http://www.ou.dk/'],"bacheloradmission@sdu.dk, 0045 6550 1102 ",5
+Royal Danish Academy of Music,['dkdm.dk'],['http://www.dkdm.dk/'],,5
+Aarhus School of Architecture,['a-aarhus.dk'],['http://www.a-aarhus.dk/'],"studentervejleder@aarch.dk,a@aarch.dk, 8936 0149 , 7 8000 ,+45 89 36 00 00 , 27120717 , 5798000793088",5
+Royal Academy of Music,['musik-kons.dk'],['http://www.musik-kons.dk/'],,5
+Diaconia University of Applied Sciences,['diak.fi'],['http://www.diak.fi/'],"admissions@diak.fi, 400 725 384 ",6
+University of Helsinki,['helsinki.fi'],['http://www.helsinki.fi/'],"registry@helsinki.fi,+3582941 22222 ,+3582941 22390 ",6
+Oulu Polytechnic,['oamk.fi'],['http://www.oamk.fi/'],"study.oamk@oulu.fi,admissions@oamk.fi, 990570 ,+358 20 611 0200, 029 448 9210,+358 20 611 0200",6
+Academy of Fine Arts,['kuva.fi'],['http://www.kuva.fi/'],"ptran@pafa.edu, 215-391-4111 , 215-569-0153 ",6
+University of Joensuu,['joensuu.fi'],['http://www.joensuu.fi/'],"studentrecruiting@uef.fi, 111 80101 ",6
+Scandinavian Art and Business Institute,['sabi.eu.com'],['http://www.sabi.eu.com/'],+358 123 456 789 ,6
+Vaasa University of Applied Sciences,['puv.fi'],['http://www.puv.fi/'],+358 29 449 8006 ,6
+Laurea University of Applied Sciences,"['laurea.fi', 'student.laurea.fi']",['http://www.laurea.fi/'],"admissions@laurea.fi,+358 9 8868 7293 ,+358 9 8868 7298 ",6
+Sibelius Academy,['siba.fi'],['http://www.siba.fi/'],"siba.admissions@uniarts.fi,teak.admissions@uniarts.fi,arkisto@uniarts.fi,+358 294 47 2000",6
+Tampere Polytechnic,['tpu.fi'],['http://www.tpu.fi/'],,6
+Aalto University,['aalto.fi'],['https://www.aalto.fi'],"admissions@aalto.fi,+358 2944 29290 ",6
+Lahti Polytechnic,"['lamk.fi', 'student.lamk.fi']",['http://www.lamk.fi/'],"admission@lut.fi,+358 29 446 2111",6
+University of Oulu,['oulu.fi'],['http://www.oulu.fi/'],+358 294 484 108,6
+Lappeenranta University of Technology,"['lut.fi', 'student.lut.fi']",['http://www.lut.fi/'],+358 29 446 2111,6
+University of Art and Design Helsinki,['uiah.fi'],['http://www.uiah.fi/'],,6
+Helsinki University of Technology,['hut.fi'],['http://www.hut.fi/'],,6
+Satakunta University Of Applied Scinces,['samk.fi'],['http://www.samk.fi/'],,6
+Turku School of Economics and Business Administration,['tukkk.fi'],['http://www.tukkk.fi/'],+358 29 450,6
+University of Lapland,['ulapland.fi'],['http://www.ulapland.fi/'],"+358 16 341 341,+358 16 362 936 ",6
+"Swedish School of Economics and Business Administration, Finland",['shh.fi'],['http://www.shh.fi/'],"international@hanken.fi,info@hanken.fi,registrator@hanken.fi,29 431 331 ",6
+Abo Akademi University,['abo.fi'],['http://www.abo.fi/'],"admission@abo.fi,+358-2-215 4169 , 3 20500 , 2 65100 ",6
+Rovaniemi University of Applied Sciences,['ramk.fi'],['http://www.ramk.fi/'],"admissions@lapinamk.fi,+358 400 830036 ,+358 40 5118659 ,+358404856583",6
+Theatre Academy Finland,['teak.fi'],['http://www.teak.fi/'],"teak.admissions@uniarts.fi,+358 294 47 2000",6
+University of Kuopio,['uku.fi'],['http://www.uku.fi/'],"studentrecruiting@uef.fi, 111 80101 ",6
+University of Vaasa,['uwasa.fi'],['http://www.uwasa.fi/'],+358 29 449 8006 ,6
+EVTEK University of Applied Sciences,['evtek.fi'],['http://www.evtek.fi/'],"+358 20 7553 500,+358 20 7553 477 ",6
+South Carelian Polytechnic,['scp.fi'],['http://www.scp.fi/'], 123-4567 ,6
+Tampere University of Technology,['tut.fi'],['http://www.tut.fi/'],"admissions.tamk@tuni.fi,294 5211",6
+University of Tampere,['uta.fi'],['http://www.uta.fi/'],+358 294 520 400 ,6
+University of Turku,['utu.fi'],['http://www.utu.fi/'],+358 29 450 5000 ,6
+University of Jyv?skyl?,['jyu.fi'],['http://www.jyu.fi/'],"admissions@jyu.fi,+358 29441 8051",6
+Central Ostrobothnia University of Applied Sciences,['cou.fi'],['http://www.cou.fi/']," 825 0000, 825 2000",6
+H?me University of Applied Sciences,['hamk.fi'],['https://www.hamk.fi/'],,6
+Metropolia University of Applied Sciences,['metropolia.fi'],['https://www.metropolia.fi/'],"admissions@metropolia.fi,+358 9 7424 5000",6
+Helsinki School of Economics and Business Administration,['hkkk.fi'],['http://www.hkkk.fi/']," 22-24 00100 ,+358 40 125 7215 ",6
+The Chinese University of Hong Kong,"['cuhk.edu.hk', 'link.cuhk.edu.hk']",['https://www.cuhk.edu.hk/'],,7
+City University of Hong Kong,"['cityu.edu.hk', 'um.cityu.edu.hk', 'my.cityu.edu.hk']",['https://www.cityu.edu.hk/'],"ugadm.local@cityu.edu.hk, 3442-7640, 3442-9368",7
+The Chinese University of Hong Kong,['cuhk.edu.cn'],['https://www.cuhk.edu.cn/'],,7
+Lingnan University,"['ln.edu.hk', 'ln.hk']",['https://www.ln.edu.hk/'],,7
+Hong Kong Chu Hai College,['chuhai.edu.hk'],['https://www.chuhai.edu.hk/'],,7
+The Hong Kong University of Science and Technology,"['ust.hk', 'connect.ust.hk']",['https://hkust.edu.hk/'],,7
+The University of Hong Kong,['hku.hk'],['https://www.hku.hk/'],,7
+Canadian International School of Hong Kong,['cdnis.edu.hk'],['https://cdnis.edu.hk'],,7
+Hong Kong Baptist University,"['hkbu.edu.hk', 'life.hkbu.edu.hk', 'associate.hkbu.edu.hk']",['https://www.hkbu.edu.hk/'], 3411 2200 ,7
+The Hang Seng University of Hong Kong,['hsu.edu.hk'],['http://www.hsu.edu.hk/'],"registry@hsu.edu.hk, 3963 5555 ",7
+Hong Kong Shue Yan University,['hksyu.edu'],['https://www.hksyu.edu/'],,7
+The Hong Kong Academy for Performing Arts,['hkapa.edu'],['https://www.hkapa.edu/'],,7
+The Hong Kong Polytechnic University,"['polyu.edu.hk', 'connect.polyu.hk']",['https://www.polyu.edu.hk/'],"ar.tpg@polyu.edu.hk,gs.admission@polyu.edu.hk, 2333 0600 , 3400 3635 , 2334 6671 , 3400 2980 ",7
+The Education University of Hong Kong,"['s.eduhk.hk', 'eduhk.hk']",['https://www.eduhk.hk'],"info@eduhk.hk,admission@eduhk.hk, 2948 8888 , 2948 6000",7
+Hong Kong Metropolitan University,"['hkmu.edu.hk', 'ouhk.edu.hk']",['https://www.hkmu.edu.hk/'],,7
+Takhatmal Shrivallabh Homoeopathic Medical College,['tshmc.org'],['http://www.tshmc.org/'],"tshmc_26@rediffmail.com, 0721-2677356 , 0721-2563100 , 444 606 ",2
+Krishna University,['krishnauniversity.ac.in'],['http://www.krishnauniversity.ac.in/'],"crskru@gmail.com, 2025 - 2026 , 08672-259201, 08672-259226 ",2
+Guru Nanak Dev University,['gnduonline.org'],['http://www.gnduonline.org/'],,2
+Bengal Engineering College,['becs.ac.in'],['http://www.becs.ac.in/']," 9679848800, 7477794700, 0343-2533189 ",2
+National Institute of Technology Uttarakhand,['nituk.ac.in'],['http://www.nituk.ac.in/']," -246174, 01346-257422",2
+Acharya Ranga Agricultural University,['angrau.net'],['http://www.angrau.net/'],"registrar@angrau.ac.in, 522 034 , 1800-425-0430",2
+Bundelkhand University,['bundelkhanduniversity.org'],['http://www.bundelkhanduniversity.org/']," 0510-2320496, 2320307, 2321158",2
+"ICFAI University, Jaipur",['iujaipur.edu.in'],['https://www.iujaipur.edu.in/'],"admissions@iujaipur.edu.in, 8094688800 , 9785015276",2
+Eiilm University,['eiilmuniversity.ac.in'],['http://www.eiilmuniversity.ac.in/'],,2
+Shivaji University,['unishivaji.ac.in'],['http://www.unishivaji.ac.in/'],,2
+"ICFAI University, Tripura",['iutripura.edu.in'],['https://www.iutripura.edu.in/'],"admissions@iutripura.edu.in, - 799210, 0381-2865752,+91-8415952506 , 18003453673 ,+91-6909879797 , 0381 - 2865754 ",2
+Gulbarga University,['gulbargauniversity.kar.nic.in'],['http://www.gulbargauniversity.kar.nic.in/'],,2
+Gurukul University,['gurukuluniversity.org'],['http://www.gurukuluniversity.org/'],,2
+University of Rajasthan,['uniraj.org'],['http://www.uniraj.org/'],,2
+"Indian Institute of Technology, Kharagpur","['iitkgp.ernet.in', 'iitkgp.ac.in']","['http://www.iitkgp.ernet.in/', 'http://www.iitkgp.ac.in/']",,2
+Christ University,['christuniversity.in'],['http://www.christuniversity.in/'],,2
+Delhi College of Engineering (DCE),['dceonline.net'],['http://www.dceonline.net/'],,2
+Postgraduate lnstitute of Medical Education and Research,['pgimer.nic.in'],['http://www.pgimer.nic.in/'],,2
+Lalit Narayan Mithila University,['lnmu.bih.nic.in'],['http://lnmu.bih.nic.in/'],"admission.lnmu@gmail.com,+91-9771884350 ",2
+JIS Institute of Pharmacy,['jisiop.org'],['https://jisiop.org/'],,2
+Gujarat Technological University Ahmedabad,['gtu.ac.in'],['http://www.gtu.ac.in/'],"registrar@gtu.ac.in,info@gtu.ac.in,- 382424,+079-23267521 ,+079-23267570",2
+"ICFAI University, Raipur",['iuraipur.edu.in'],['https://www.iuraipur.edu.in/'],,2
+Indira Gandhi Institute of Development and Research,['igidr.ac.in'],['http://www.igidr.ac.in/'],,2
+Indian Institute of Information Technology and Management - Kerala,['iiitmk.ac.in'],['http://www.iiitmk.ac.in/'],"info@iiitmk.ac.in,+ 91 471 2527567, 471 2700777,+ 91 471 2527568",2
+"Indraprastha Institute of Information Technology, Delhi",['iiitd.ac.in'],['http://www.iiitd.ac.in/'],"btech-admissions@iiitd.ac.in, - 110020, 91-11-2690 7140",2
+Manipur University,['manipur.nic.in'],['http://www.manipur.nic.in/maniuniversity.htm'],,2
+"Indian Institute of Management, Tiruchirappalli",['iimtrichy.ac.in'],['http://www.iimtrichy.ac.in/'],,2
+JIS School of Polytechnic,['jissp.ac.in'],['https://www.jissp.ac.in/'],"admission.jissp@jisgroup.org, - 741235,+91 33 2502 5690 ,+91 82407 66831",2
+"Indian Institute of Information Technology, Vadodara",['iiitvadodara.ac.in'],['http://iiitvadodara.ac.in/'],,2
+Aligarh Muslim University,['amu.ac.in'],['http://www.amu.ac.in/']," 202002 , 0114 1219 005",2
+PSG College of Technology,['psgtech.edu'],['http://www.psgtech.edu/'],,2
+University of Madras,['unom.ac.in'],['http://www.unom.ac.in/'],,2
+Visva-Bharati University,['visva-bharati.ac.in'],['http://www.visva-bharati.ac.in/'],,2
+Sri Ramachardra Medical College and Research Institute,['sriramachandra.edu.in'],['https://www.sriramachandra.edu.in/'],,2
+"Indian Institute of Technology, Roorkee",['iitr.ac.in'],['http://www.iitr.ac.in/'],,2
+"Indian Institute of Technology, Patna",['iitp.ac.in'],['http://www.iitp.ac.in/']," - 801106,+91 6115 233 337 ",2
+First Global University to teaching Jainism,['jainuniversity.org'],['http://www.jainuniversity.org/'],,2
+"Indian Institute of Technology, Jodhpur",['iitj.ac.in'],['http://www.iitj.ac.in/'],,2
+Indian Veterinary Research Institute,['ivri.nic.in'],['http://www.ivri.nic.in/'],,2
+University of Petroleum and Energy Studies,['upes.ac.in'],['https://www.upes.ac.in/'],,2
+Tilka Manjhi Bhagalpur University,['tmbu.org'],['http://www.tmbu.org/'],,2
+Nagaland University,['nagauniv.org.in'],['http://www.nagauniv.org.in/'],,2
+Indian School of Business Management and Administration,['isbm.org.in'],['http://isbm.org.in/'],,2
+Panjab University,['puchd.ac.in'],['http://www.puchd.ac.in/'],,2
+JIS University,['jisuniversity.ac.in'],['https://www.jisuniversity.ac.in/'],,2
+Indian University,['iur.ac.in'],['http://www.iur.ac.in/']," 812-855-0661 , 812-855-5102 , 47405-7108",2
+Darul Huda Islamic University,['darulhuda.com'],['http://www.darulhuda.com/'],,2
+Ch. Charan Singh University,['ccsuniversity.org'],['http://www.ccsuniversity.org/'],,2
+Rajitlal Institute of Technology & Health Sciences (RITHS),['riths.ac.in'],['http://www.riths.ac.in/'],,2
+Sher-E-Kashmir University of Agricultural Sciences and Technology,['skuastkashmir.ac.in'],['http://www.skuastkashmir.ac.in/'],,2
+"Indian Institute of Technology, Madras",['iitm.ac.in'],['http://www.iitm.ac.in/'],,2
+Jawaharlal Nehru Technological University Hyderabad,['jntuh.ac.in'],['http://www.jntuh.ac.in/'],,2
+Jawaharlal Nehru University,['jnu.ac.in'],['http://www.jnu.ac.in/'],,2
+RMK Engineering College,['rmkec.ac.in'],['http://www.rmkec.ac.in/'],,2
+Kannada University,['kannadauniversity.org'],['http://www.kannadauniversity.org/'],,2
+Rabindra Bharati University,['rabindrabharatiuniversity.net'],['http://www.rabindrabharatiuniversity.net/'],,2
+Narendra Deva University of Agriculture and Technology,['nduat.nic.in'],['http://www.nduat.nic.in/'],,2
+Dr. D.Y. Patil University,['dypatiluniversity.org'],['http://www.dypatiluniversity.org/'],,2
+Kuvempu University,['kuvempu.ac.in'],['http://www.kuvempu.ac.in/'],,2
+Bhupendra Narayan Mandal University,['bnmu.in'],['http://www.bnmu.in/'],,2
+University of Kashmir,['kashmiruniversity.net'],['http://kashmiruniversity.net/'],,2
+Kerala Agricultural University,['kau.edu'],['http://www.kau.edu/'],,2
+Saurashtra University,['saurashtrauniversity.edu'],['http://www.saurashtrauniversity.edu/'],,2
+Yashawantrao Chavan Maharashtra Open University,['ycmou.com'],['http://www.ycmou.com/'],,2
+Sri Sai Ram Institute of Technology,['sairamit.edu.in'],['https://sairamit.edu.in/'],"sairam@sairamit.edu.in,career@sairamit.edu.in, - 600044,+91-44-22512111 , 2251 2333 ,+91-44-22512444,+91-44-22512323",2
+Kumaun University,['kumaununiversity.org'],['http://www.kumaununiversity.org/'],,2
+Magadh University,['magadhuniversity.org'],['http://www.magadhuniversity.org/'],,2
+National Institute of Technology Manipur,['nitmanipur.ac.in'],['http://www.nitmanipur.ac.in'],,2
+Mahatma Phule Agricultural University,['mpkv.mah.nic.in'],['http://mpkv.mah.nic.in/'],,2
+"Indian Institute of Technology, Delhi","['iitd.ernet.in', 'iitd.ac.in']","['http://www.iitd.ernet.in/', 'https://home.iitd.ac.in/']",,2
+Manav Rachna University,['manavrachna.edu.in'],['https://manavrachna.edu.in/'],,2
+Tumkur University,['tumkuruniversity.ac.in'],['http://www.tumkuruniversity.ac.in/'],,2
+Jamia Hamdard University,['jamiahamdard.edu'],['http://www.jamiahamdard.edu/'],,2
+National Institute of Technology Sikkim,['nitsikkim.ac.in'],['http://www.nitsikkim.ac.in/'],,2
+"Mahatma Gandhi University, Kerala",['mgu.ac.in'],['http://www.mgu.ac.in/'],"frontoffice@mgu.ac.in, - 686 560, 0481 2733516, 2733580, 2733505,2733375 ",2
+Tamil Nadu Veterinary and Animal Sciences University,['tanuvas.com'],['http://www.tanuvas.com/'],,2
+Sikha 'O' Anushandhan University,['soauniversity.ac.in'],['http://www.soauniversity.ac.in/'],,2
+Bangalore University,['bengaluruuniversity.com'],['http://bengaluruuniversity.com/']," 080-22961000, 22961037, 22961040, 23213023",2
+Saveetha Engineering College,['saveetha.ac.in'],['https://www.saveetha.ac.in/'],,2
+Ashoka University,['ashoka.edu.in'],['https://www.ashoka.edu.in'],,2
+Himachal Pradesh University,['hpuniv.nic.in'],['http://hpuniv.nic.in/'],,2
+Panimalar Engineering College,"['panimalar.ac.in', 'panimalarengineeringcollegechennai.ac.in']","['https://panimalar.ac.in', 'https://panimalarengineeringcollegechennai.ac.in/']",,2
+Himachal Pradesh Agricultural University,['hillagric.ernet.in'],['http://hillagric.ernet.in/'],,2
+Dr. Babasaheb Ambedkar Technological University,['dbatechuni.org'],['http://www.dbatechuni.org/'],,2
+Institute of Management Studies,['nims.net.in'],['http://www.nims.net.in/']," - 400 056, 022-4235 5555",2
+National Institute of Technology Andhra Pradesh,['nitandhra.ac.in'],['http://www.nitandhra.ac.in/'],"registrar@nitandhra.ac.in, - 534102, 08818-284710",2
+Kerala University of Fisheries and Ocean Sciences,['kufos.ac.in'],['http://www.kufos.ac.in/'],"admissions@kufos.ac.in, 0484 2275032, 682 506",2
+Karnataka State Law University,['kslu.ac.in'],['http://www.kslu.ac.in/'],"ksluregistrar@karnataka.gov.in,kslulawschool@gmail.com,+91-836-2222392, 2222492 , 2024 - 2025 ",2
+National Institute of Technology Delhi,['nitdelhi.ac.in'],['http://www.nitdelhi.ac.in/'],"Email-secretary@nitdelhi.ac.in, 011-33861005 ,+91-1133861005",2
+National Institute of Technology Goa,['nitgoa.ac.in'],['http://www.nitgoa.ac.in/'],,2
+Birsa Agricultural University,['bau.nic.in'],['http://www.bau.nic.in/'],,2
+Mangalore University,['mangaloreuniversity.ac.in'],['http://www.mangaloreuniversity.ac.in/'],,2
+National Institute of Technology Mizoram,['nitmz.ac.in'],['http://www.nitmz.ac.in'],,2
+National Institute of Technology Calicut,['nitc.ac.in'],['http://www.nitc.ac.in/'],,2
+Nagpur University,['nagpur-university.com'],['http://www.nagpur-university.com/'],,2
+Guru Nanak Institute of Pharmaceutical Science & Technology,['gnipst.ac.in'],['https://www.gnipst.ac.in/'],,2
+Guru Nanak Institute of Hotel Management,['gnihm.ac.in'],['https://www.gnihm.ac.in/'],,2
+Mahatma Jyotiba Phule Rohilkhand University Bareilly,['mjpru.ac.in'],['http://www.mjpru.ac.in/'],"registrar@mjpru.ac.in, 418000 , 05812520801",2
+Saveetha University,['saveetha.com'],['https://www.saveetha.com/'],"admission@saveetha.ac.in, 66726603,+91-8939902737",2
+Orissa University of Agriculture and Technology,['bhub.ori.nic.in'],['http://bhub.ori.nic.in/ouat/'],,2
+Velammal Institute of Technology,['velammalitech.edu.in'],['https://velammalitech.edu.in/'],"info@velammaltrust.com, 044 - 65161766 , 044 - 26591841 , 044 - 26590757 ",2
+National Institute of Technology Meghalaya,['nitm.ac.in'],['http://www.nitm.ac.in'],"admissions_incharge_ug@nitm.ac.in,admissions_ug@nitm.ac.in, 91-364-2501294",2
+Uttar Pradesh Technical University,['uptu.ac.in'],['http://www.uptu.ac.in/'],"registrar@aktu.ac.in, 555996 , 05222336805",2
+Atharva College of Engineering,['atharvacoe.ac.in'],['https://atharvacoe.ac.in'],,2
+Jawaharlal Nehru Agricultural University,['jnkvv.nic.in'],['http://www.jnkvv.nic.in/'],,2
+Gandhi Institute of Technology and Managment,['gitam.edu'],['http://www.gitam.edu/'],,2
+Indian Institute of Information Technology Sri City,['iiits.in'],['https://www.iiits.ac.in/'],,2
+Ramaiah University of Applied Sciences,['msruas.ac.in'],['https://msruas.ac.in'],,2
+Sardar Patel University,['spuvvn.edu'],['http://www.spuvvn.edu/'],,2
+Jai Narain Vyas University,['ptetjnvu.org'],['http://www.ptetjnvu.org/'],,2
+ARYA Institute of Engineering & Technology,['aryainstitutejpr.com'],['http://www.aryainstitutejpr.com/'],,2
+Malaviya National Institute of Technology Jaipur,['mnit.ac.in'],['http://www.mnit.ac.in/'],,2
+RMK College of Engineering and Technology,['rmkcet.ac.in'],['https://rmkcet.ac.in/'],,2
+Bhavnagar University,['bhavuni.edu'],['http://www.bhavuni.edu/'],,2
+Indian Agricultural Research Institute,['iari.ernet.in'],['http://www.iari.ernet.in/']," 011-25843438, 011-25842390 , 011-25846420",2
+Mahatma Gandhi Kashi Vidyapith,['mgkvp.ac.in'],['http://www.mgkvp.ac.in/'],,2
+Bankura University,['bankurauniv.com'],['http://www.bankurauniv.com/'],,2
+University of Delhi,['du.ac.in'],['http://www.du.ac.in/'],"duet@nta.ac.in,+91-11-27662602, 011-40759000",2
+National Law School of India University,['nls.ac.in'],['http://www.nls.ac.in/'],,2
+Dr. Panjabrao Deshmukh Krishi Vidyapeeth,['pdkv.ac.in'],['http://www.pdkv.ac.in/'],,2
+Sri Sai Ram Engineering College,['sairam.edu.in'],['https://sairam.edu.in/'],,2
+IASE (Institute of Advanced Studies) Deemed University,['iaseduniv.org'],['http://www.iaseduniv.org/'],,2
+Annamalai University,['annamalaiuniversity.ac.in'],['http://www.annamalaiuniversity.ac.in/'],,2
+"Maharaja Ganga Singh University, Bikaner",['mgsubikaner.ac.in'],['http://www.mgsubikaner.ac.in/'],,2
+National Dairy Research Institute,['ndri.nic.in'],['http://ndri.nic.in/'],,2
+Shri Jagdishprasad Jhabarmal Tibrewala University,['jjtu.ac.in'],['https://jjtu.ac.in/'],,2
+Loyola-ICAM College of Engineering and Technology,['licet.ac.in'],['https://licet.ac.in/'],"licet@licet.ac.in,+91 - 44 - 28178490, 9003813339 , - 600034",2
+"ICFAI University, Meghalaya",['iumeghalaya.edu.in'],['https://www.iumeghalaya.edu.in/'],,2
+Makanlal Chutur Vedi University,['mcu.ac.in'],['http://www.mcu.ac.in/'],"mcu.pravesh@gmail.com,admission@mcu.ac.in, 0755-2553523 , 9754870534 , 7693861752 ",2
+CMJ University,['cmjuniversity.edu.in'],['http://www.cmjuniversity.edu.in/'],"info@cmjumeghalaya.edu.in,registrar@cmjumeghalaya.edu.in,-793101 , 0361-2897413 , 0361-2897101 ,2897416 , 863854226 ",2
+Indira Gandhi Institute of Medical Sciences,['igims.org'],['http://www.igims.org/'],,2
+Lakshmibai National Institute of Physical Education,['lnipe.edu'],['http://www.lnipe.edu/'],,2
+West Bengal University of Technology,['wbut.net'],['http://www.wbut.net/'],,2
+"Anna University of Technology, Tirunelveli",['annauniv.edu.in'],['http://www.annauniv.edu.in/'],,2
+"International Institute of Information Technology, Bhubaneswar",['iiit-bh.ac.in'],['https://www.iiit-bh.ac.in/'],"offdirector@iiit-bh.ac.in,+91-674-3060500, 0674-3060-504",2
+Madurai Kamaraj University,['mkuhyd.com'],['http://www.mkuhyd.com/'],,2
+Center for Entrepreneurship and Small Business Management,['cesbm.ac.in'],['http://www.cesbm.ac.in/'],"CSUFentrepreneurship@fullerton.edu, 3280 800 , 92834-6848 , 278-3464 ",2
+Pondicherry University,['bicpu.edu.in'],['https://bicpu.edu.in'],,2
+Easwari Engineering College,['srmeaswari.ac.in'],['https://srmeaswari.ac.in/'],,2
+"ICFAI University, Himachal Pradesh",['iuhimachal.edu.in'],['https://www.iuhimachal.edu.in/'],,2
+Lovely Professional University,['lpu.in'],['http://www.lpu.in/'],,2
+University of Mumbai,['mu.ac.in'],['http://www.mu.ac.in/'],,2
+COEP Technological University,['coeptech.ac.in'],['https://www.coep.org.in/'],,2
+Sanjay Gandhi Postgraduate lnstitute of Medical Sciences,['sgpgi.ac.in'],['http://www.sgpgi.ac.in/'],,2
+South Gujarat University,['sgu.ernet.in'],['http://www.sgu.ernet.in/']," - 395007, 2227141 , 2227146 , 1800 2333 011 , 2388888 ",2
+National Institute of Mental Health and Neuro Sciences,['nimhans.kar.nic.in'],['http://www.nimhans.kar.nic.in/'],,2
+Deccan College Postgraduate and Research Institute,['deccancollegepune.ac.in'],['http://www.deccancollegepune.ac.in/'],"academic@dcpune.ac.in,registrar@dcpune.ac.in, 411 006, 020-26513237 , 9881040304 , 020-26513284 ",2
+"ICFAI University, Hyderabad",['ifheindia.org'],['https://www.ifheindia.org/'],,2
+Jai Prakash University,['jpv.bih.nic.in'],['http://jpv.bih.nic.in/'],,2
+Madras Institute of Technology,['mitindia.edu'],['https://www.mitindia.edu/en/'],"dean@mitindia.edu,deanmit@annauniv.edu, -600044 , 044 2251 6002",2
+Chandil Polytechnic School,['chandilpolytechnic.org'],['https://www.chandilpolytechnic.org/'],,2
+KIET Group of Institutions,['kiet.edu'],['https://kiet.edu'],"admission.as@kiet.edu,+91-7949335337",2
+National Institute of Technology Jamshedpur,['nitjsr.ac.in'],['http://www.nitjsr.ac.in/'],,2
+Alpha College of Engineering,['alphagroup.edu'],['https://alphagroup.edu/engineering/'],,2
+Central Agricultural University,['cau.org.in'],['http://www.cau.org.in/'],,2
+Vardhaman Mahaveer Open University,['vmou.ac.in'],['http://www.vmou.ac.in/'],,2
+Sri Venkateswara College of Engineering,['svce.ac.in'],['https://www.svce.ac.in/'],,2
+Sri Venkateswara Institute of Medical Sciences,['svimstpt.ap.nic.in'],['http://svimstpt.ap.nic.in/'],,2
+University of Mysore,['uni-mysore.ac.in'],['http://www.uni-mysore.ac.in/'],,2
+University of Hyderabad,['uohyd.ernet.in'],['http://www.uohyd.ernet.in/'],,2
+Indus University,['indusuni.ac.in'],['http://www.indusuni.ac.in/'],,2
+Ahmedabad University,['ahduni.edu.in'],['http://www.ahduni.edu.in/'],,2
+Chaudhary Charan Singh University,['ccsuniversity.ac.in'],['http://www.ccsuniversity.ac.in/'],,2
+National Institute of Technology Kurukshetra,['nitkkr.net'],['http://www.nitkkr.net/'],"admission@nitkkr.ac.in,scholarship@nitkkr.ac.in,dr1@nitkkr.ac.in,- 01744-233227,- 01744-233227",2
+Assam Agricultural University,['aau.ac.in'],['http://www.aau.ac.in/'],,2
+Tata Institute of Social Sciences,['tiss.edu'],['http://www.tiss.edu/'],,2
+Rajiv Gandhi University,['rgu.ac.in'],['http://www.rgu.ac.in/'],,2
+Dayalbagh Educational Institute,['dei.ac.in'],['http://www.dei.ac.in/'],,2
+Institute of Technology and Management,['itmindia.edu'],['http://www.itmindia.edu/'],"campus@iesbpl.ac.in,admissions@iesbpl.ac.in, 9229251477, 9229251422",2
+International Institute for Population Sciences,['iipsindia.org'],['http://www.iipsindia.org/'],,2
+AISECT University,['aisectuniversity.ac.in'],['http://www.aisectuniversity.ac.in/'],"+91-8252299990,+91-840-488-4433 ",2
+West Bengal University of Animal and Fishery Sciences,['wbuafs.nic.in'],['http://www.wbuafs.nic.in/'],,2
+Dr. Ram Manohar Lohia Avadh University,['rmlau.ac.in'],['http://www.rmlau.ac.in/'],"+91 5278-246223,+91 5278-246330",2
+"ICFAI University, Sikkim",['iusikkim.edu.in'],['https://www.iusikkim.edu.in/'],,2
+Alagappa University,['alagappauniversity.ac.in'],['http://www.alagappauniversity.ac.in/'],"coe@alagappauniversity.ac.in,alucoese@gmail.com, - 630 003 , 4565 223120 , 4565 225624 ",2
+Rajasthan Technical University,['rtu.ac.in'],['http://www.rtu.ac.in/'],,2
+Sri Sivasubramaniya Nadar Institutions,['ssn.edu.in'],['https://www.ssn.edu.in/']," 044 - 2441 1656 , 2441 6474",2
+All India Institute of Medical Sciences,['aiims.ac.in'],['http://www.aiims.ac.in/'],,2
+VIT Bhopal,['vitbhopal.ac.in'],['https://vitbhopal.ac.in/'],,2
+Biju Pattnaik University of Technology,['bput.org'],['http://www.bput.org/'],,2
+Deen Dayal Upadhyay Gorakhpur University,['ddugu.edu.in'],['http://www.ddugu.edu.in/'],,2
+Kameshwar Singh Darbhanga Sanskrit University,['ksdsu.edu.in'],['http://www.ksdsu.edu.in/'],,2
+Kannur University,['kannuruniversity.ac.in'],['http://www.kannuruniversity.ac.in/'],"deptsws@kannuruniv.ac.in,ugsws@kannuruniv.ac.in, 0497-2715284, 0497-2715261,7356948230 ",2
+Nizam's Institute of Medical Sciences,['nims.ap.nic.in'],['http://nims.ap.nic.in/'],,2
+University of Kalyani,['klyuniv.ac.in'],['http://www.klyuniv.ac.in/'],,2
+Indira Gandhi National Open University,['ignou.ac.in'],['http://www.ignou.ac.in/'],"info@ignou.com, 29534229, 29534326, 29571984, 29571985, 29571986 , 29572513, 29572514 ",2
+CCS Haryana Agricultural University,['hau.ernet.in'],['http://hau.ernet.in/']," - 125004,+91-01662-234613",2
+Dr. B. R. Ambedkar National Institute of Technology Jalandhar,['nitj.ac.in'],['http://www.nitj.ac.in/'],,2
+Bharati Vidyapeeth University,['bharatividyapeeth.edu'],['http://www.bharatividyapeeth.edu/'],,2
+Gujarat University Ahmedabad,['gujaratuniversity.org.in'],['http://www.gujaratuniversity.org.in/']," - 380 009,+91-079-26301341, 26300342,+91-079-26302654",2
+Central Institute of English and Foreign Languages,['ciefl.org'],['http://www.ciefl.org/'],,2
+Jiwaji University,['jiwaji.edu'],['http://www.jiwaji.edu/'],,2
+Sharda University,['sharda.ac.in'],['https://www.sharda.ac.in/'],"admission@sharda.ac.in,+91-120-4570000 ,+91-120-4060210 ,+91-120-4060211 ,- 9205586066",2
+"ICFAI University, Mizoram",['iumizoram.edu.in'],['https://www.iumizoram.edu.in/'],,2
+"Indian Institute of Information Technology, Guwahati",['iiitg.ac.in'],['http://www.iimtrichy.ac.in/'],,2
+SA Engineering College,['saec.ac.in'],['https://www.saec.ac.in/'],,2
+"Allahabad Agricultural Institute, Deemed University",['aaidu.org'],['http://www.aaidu.org/'],"registrar@aaidu.org, 2684281, 2684593",2
+School of Planning and Architecture,['spa.ac.in'],['http://www.spa.ac.in/']," 110 002 ,+ 91 11 2370 2375 ,+ 91 11 2370 2376 ,+ 91 11 2372 4383 ,+ 91 11 2370 2383 ",2
+DAV Institute of Engineering & Technology,['davietjal.org'],['http://www.davietjal.org/'],,2
+Allahabad University,['alldunivpio.org'],['http://www.alldunivpio.org/'],"+880 111 222 333 ,+880 111 222 333, - 211002 0532-2461083",2
+North Eastern Hill University,['nehu.ac.in'],['http://www.nehu.ac.in/'],,2
+University of Roorkee,['uor.org'],['http://www.uor.org/'],,2
+Thiruvalluvar University,['tvuni.in'],['http://www.tvuni.in/'],,2
+Maulana Azad National Institute of Technology Bhopal,['manit.ac.in'],['http://www.manit.ac.in/'],,2
+Anna University,['annauniv.edu'],['http://www.annauniv.edu/'],,2
+Central Institute of Fisheries Education,['cife.edu.in'],['http://www.cife.edu.in/'],,2
+Punjab Agricultural University,['pau.edu'],['http://www.pau.edu/'],"registrar@pau.edu, - 141004, 91-161-2401960-79",2
+Kanpur University,['kanpuruniversity.org'],['http://www.kanpuruniversity.org/'],,2
+Gujarat Ayurved University,['ayurveduniversity.com'],['http://www.ayurveduniversity.com/'],,2
+Maharaja Sayajirao University of Baroda,['msubaroda.ac.in'],['http://www.msubaroda.ac.in/'],,2
+National Institute of Technology Trichy,['nitt.edu'],['http://www.nitt.edu/'],"deanac@nitt.edu, - 620015, 0431-2501801 - 2501808 , 2025 - 2026 ",2
+Sido Kanhu Murmu University,['skmu.edu.in'],['http://www.skmu.edu.in/'],"s.k.m.university.dumka@gmail.com, - 814110, 06434-222495",2
+Velammal Engineering College,['velammal.edu.in'],['https://velammal.edu.in/'],,2
+Punjab Technical University,['ptu.ac.in'],['http://www.ptu.ac.in/'],,2
+Hindustan Institute of Technology and Science,['hindustanuniv.ac.in'],['https://hindustanuniv.ac.in/'],,2
+Berhampur University,['bamu.nic.in'],['http://www.bamu.nic.in/'],,2
+Mohan Lal Sukhadia University,['mlsu.ac.in'],['http://www.mlsu.ac.in/'],,2
+Barkatullah University,['bubhopal.nic.in'],['http://www.bubhopal.nic.in/'],,2
+Indian Statistical Institute,['isical.ac.in'],['http://www.isical.ac.in/'],,2
+Pandit Deendayal Petroleum University,['pdpu.ac.in'],['http://www.pdpu.ac.in/'],,2
+Tamil Nadu Dr. Ambedkar Law University,['tndalu.org'],['http://www.tndalu.org/'],,2
+Periyar University,['spuniv.org'],['http://www.spuniv.org/'],,2
+Moulana Azad national Urdu University,['manuu.ac.in'],['http://www.manuu.ac.in/'],,2
+Dhirubhai Ambani Institute of Information and Communication Technology,['da-iict.org'],['http://www.da-iict.org/'],,2
+Chandra Shekhar Azad University of Agriculture and Technology,['csauk.ac.in'],['http://www.csauk.ac.in/'],,2
+Sri Venkateswara University,['svuni.ap.nic.in'],['http://svuni.ap.nic.in/'],,2
+"ICFAI University, Nagaland",['iunagaland.edu.in'],['https://www.iunagaland.edu.in/'],,2
+Gurukula Kangri University,['gkvharidwar.org'],['http://www.gkvharidwar.org/'],"registrar@kgcd.gkv.ac.in,-249404 ,07300761138 ",2
+Banasthali University,['banasthali.org'],['http://www.banasthali.org/'],,2
+Ranchi University,['ranchiuniversity.org.in'],['http://www.ranchiuniversity.org.in/'],,2
+ICFAI University,['icfai.org'],['http://www.icfai.org/'],,2
+VBS Purvanchal University,['vbspu.ac.in'],['http://vbspu.ac.in/'],,2
+RMD Engineering College,['rmd.ac.in'],['https://rmd.ac.in/'],"rmdecp@gmail.com, 04433303030",2
+Shreemati Nathibai Damodar Thackersey Women's University,['sndt.edu'],['http://www.sndt.edu/']," 400049 , 022-2660 8493 022-2660 8462",2
+Bharath Institue Of Higher Education & Research,['bharathuniv.com'],['http://www.bharathuniv.com/'],,2
+Jawaharlal Nehru Centre for Advanced Scientific Research,['jncasr.ac.in'],['http://www.jncasr.ac.in/'],"nsmadmin@jncasr.ac.in,-560064 ,+91 80 2208 2945",2
+University of Calcutta,['caluniv.ac.in'],['http://www.caluniv.ac.in/'],,2
+Sree Rama Krishna Degree College,['srkdc.org'],['http://www.srkdc.org/'],,2
+Jamia Millia Islamia University,['jmi.nic.in'],['http://jmi.nic.in/'],,2
+Pondicherry University,['pondiuni.org'],['http://www.pondiuni.org/'],,2
+Solapur University,['su.digitaluniversity.ac'],['http://su.digitaluniversity.ac/'],,2
+Banaras Hindu University,['bhu.ac.in'],['http://www.bhu.ac.in/'],,2
+National Institute of Technology Silchar,['nits.ac.in'],['http://www.nits.ac.in/'],,2
+National Institute of Technology Agartala,['nita.ac.in'],['http://www.nita.ac.in/'],,2
+Sree Chitra Tirunal Institute for Medical Sciences and Technology,['sctimst.ker.nic.in'],['http://sctimst.ker.nic.in/'],,2
+Babasaheb Bhimrao Ambedkar University,['bbauindia.org'],['http://www.bbauindia.org/'],,2
+Vikrama Simhapuri University,['simhapuriuniv.ac.in'],['http://www.simhapuriuniv.ac.in/'],,2
+Bhagwan Parshuram Institute of Technology,"['bpitindia.edu.in', 'bpitindia.in']",['http://bpitindia.ac.in'],,2
+"Rajasthan Agricultural University, Bikaner",['raubikaner.org'],['http://www.raubikaner.org/'],,2
+Aditya University,['aditya.ac.in'],['https://aditya.ac.in/'],,2
+Greater Kolkata College of Engineering & Management,['gkcem.ac.in'],['https://www.gkcem.ac.in/'],,2
+Nalanda Open University,['nalandaopenuniversity.info'],['http://www.nalandaopenuniversity.info/'],,2
+Tamil Nadu Dr. M.G.R. Medical University,['tnmmu.ac.in'],['http://www.tnmmu.ac.in/'],,2
+"National Museum Institute of History of Art, Conservation and Museology",['nationalmuseumindia.org'],['http://www.nationalmuseumindia.org/nmi/index.htm'],,2
+Chhatrapati Shahu Ji Maharaj University,['kanpuruniversity.org'],['http://www.kanpuruniversity.org/'],,2
+National Institute of Technology Srinagar,['nitsri.net'],['http://www.nitsri.net/'],,2
+"Hidayatullah National Law University, Raipur",['hnluraipur.com'],['http://www.hnluraipur.com/'],,2
+Visvesvaraya National Institute of Technology,['vnitnagpur.ac.in'],['http://www.vnitnagpur.ac.in/'],"trusharg@mec.vnit.ac.in,+91-7122801169",2
+Dibrugarh University,['dibru.ernet.in'],['http://www.dibru.ernet.in/'],,2
+Sambalpur University,['sambalpuruniversitypgc.in'],['http://www.sambalpuruniversitypgc.in/'],,2
+National Sanskrit University,['sanskrit.nic.in'],['http://www.sanskrit.nic.in/'],,2
+Sri Padmavati Women's University,['padmavatiwomen-univ.org'],['http://www.padmavatiwomen-univ.org/'], 0877-2284592,2
+Shridhar University,['shridharuniversity.ac.in'],['http://www.shridharuniversity.ac.in/'],"info@shridharuniversity.ac.in, - 333031 ,+91-7895 343434 ,+91-01596-298551 ",2
+University of Health Sciences Andhra Pradesh,['ntruhs.ap.nic.in'],['http://ntruhs.ap.nic.in/'],,2
+Dr. Bhim Rao Abdekar University,['brauagra.com'],['http://www.brauagra.com/'],,2
+"Dr. Hari Singh Gour University, formerly University of Sagar",['sagaruniversity.nic.in'],['http://www.sagaruniversity.nic.in/'],,2
+Guru Jambeshwar University,['gju.ernet.in'],['http://www.gju.ernet.in/'],,2
+Guru Ghasidas University,['ggu.ac.in'],['http://www.ggu.ac.in/'],,2
+Gokhale Institute of Politics and Economics,['gipe.ernet.in'],['http://www.gipe.ernet.in/'],,2
+KCG College of Technology,['kcgcollege.ac.in'],['https://kcgcollege.ac.in/'],,2
+Indian Law Institue,['ili.ac.in'],['https://www.ili.ac.in/'],,2
+Sri Sathya Sai Institute of Higher Learning,['srisathyasai.org.in'],['http://www.srisathyasai.org.in/pages/instts/HighLearn.htm'],"+91 9441 911 391 ,+91 83310 34774 ,+91 8555 287239 ",2
+Mahatma Gandhi Chitrakut Gramoday University,['ruraluniversity-chitrakoot.org'],['http://www.ruraluniversity-chitrakoot.org/'],"registrar@gramodayachitrakoot.ac.in,vc@gramodayachitrakoot.ac.in, 485334 , 07670-265411, 07670-265413 , 07670-265413 , 07670-265411 ",2
+Guru Nanak Institute of Dental Sciences & Research,['gnidsr.ac.in'],['https://www.gnidsr.ac.in/'],,2
+Charotar University of Science and Technology,['charusat.ac.in'],['https://www.charusat.ac.in/'],,2
+Rajagiri School of Engineering and Technology,['rajagiritech.edu.in'],['https://www.rajagiritech.edu.in/'],,2
+Rajalakshmi Engineering College,['rajalakshmi.org'],['https://www.rajalakshmi.org/'],,2
+Narsee Monjee Institute of Management Studies,['nmims.edu'],['http://www.nmims.edu/'],"enquiry.mpstme@nmims.edu,admissions.mpstme@nmims.edu,+91 22 4233 4000 ",2
+Sri Krishnadevaraya University,['skuniv.ap.nic.in'],['http://skuniv.ap.nic.in/'],"directordoasku2015@gmail.com, 08554-255889",2
+Osmania University,['osmania.ac.in'],['http://www.osmania.ac.in/'],,2
+Dr. C.V. Raman University,['cvru.ac.in'],['http://www.cvru.ac.in/'],,2
+Somaiya Vidyavihar,['somaiya.edu'],['https://somaiya.edu/'],"sundarrajan@somaiya.edu,internationalrelations@somaiya.edu,+91-22-67283064",2
+Fatima Mata National College,['fatimacollege.net'],['http://www.fatimacollege.net/'],,2
+Jeppiar Engineering College,['jeppiaarcollege.org'],['https://jeppiaarcollege.org/jeppiaar/'],,2
+Rani Durgavati University,['rdunijbpin.org'],['http://www.rdunijbpin.org/'],,2
+Asansol Engineering College,['aecwb.edu.in'],['http://www.aecwb.edu.in/'],,2
+National Institute of Technology Surathkal,"['nitk.ac.in', 'nitk.edu.in']","['http://www.nitk.ac.in/', 'http://www.nitk.edu.in/']",,2
+Veer Surendra Sai University of Technology,['vssut.ac.in'],['http://www.vssut.ac.in/'],+91 8480 441 756,2
+Nirma University,['nirmauni.ac.in'],['http://www.nirmauni.ac.in/'],,2
+Punjab Engineering College,['pec.ac.in'],['http://www.pec.ac.in/'],,2
+"International Institute of Information Technology, Bangalore",['iiitb.ac.in'],['https://www.iiitb.ac.in/'],,2
+Karunya Institute Of Technology,['karunya.edu'],['http://www.karunya.edu/'],,2
+"Indian Institute of Technology, Bombay",['iitb.ac.in'],['http://www.iitb.ac.in/'],,2
+"Indian Institute of Information Technology, Kota",['iiitkota.ac.in'],['http://iiitkota.ac.in/'],,2
+Navrachana University,['nuv.ac.in'],['https://www.nuv.ac.in/'],,2
+Sree Sankaracharya University of Sanskrit,['ssus.ac.in'],['http://www.ssus.ac.in/'],,2
+Guru Gobind Singh Indraprastha University,['ipu.ac.in'],['http://www.ipu.ac.in/'],,2
+B. S. Abdur Rahman University,['bsauniv.ac.in'],['http://www.bsauniv.ac.in/'],,2
+National Institute of Industrial Engineering,['nitie.edu'],['http://www.nitie.edu/'],"admissions@nitie.edu, 2023-24, - 400087 , 022 - 28575590 ",2
+Singhania University,['singhaniauniversity.ac.in'],['https://singhaniauniversity.ac.in/'],,2
+Kalinga Institute of Industrial Technology (KIIT),['kiit.ac.in'],['https://kiit.ac.in/'],,2
+"Sikkim Manipal University of Health, Medical and Technological Sciences",['smu.edu.in'],['http://www.smu.edu.in/'],,2
+Jaipur National University,['jnujaipur.ac.in'],['http://www.jnujaipur.ac.in/'],,2
+University of Jammu,['jammuvarsity.org'],['http://www.jammuvarsity.org/'],,2
+"Global Open University , Nagaland",['government.ind.in'],['http://www.government.ind.in/'],,2
+Dr. B.R. Ambedkar Open University,['braou.ac.in'],['http://www.braou.ac.in/'],,2
+Pandit Ravi Shankar Shukla University,['rsuniversity.com'],['http://www.rsuniversity.com/'],,2
+North Maharashtra University,['nmu.ac.in'],['http://www.nmu.ac.in/']," - 0257-2258418, 9403002042, 9403002015, 9403002018, 9403002054, 9403002024, 9403002082",2
+Swami Ramanand Teerth Marathwada University,['srtmun.org'],['http://www.srtmun.org/'],,2
+St Joseph's Institute Of Technology,['stjosephstechnology.ac.in'],['https://www.stjosephstechnology.ac.in/'],,2
+"ICFAI University, Jharkhand",['iujharkhand.edu.in'],['https://www.iujharkhand.edu.in/'],,2
+JIS College of Engineering,['jiscollege.ac.in'],['https://www.jiscollege.ac.in/'],,2
+Thiagarajar College of Engineering,['tce.edu'],['http://www.tce.edu/'],,2
+SRM Institute Of Science & Technology,['srmuniv.ac.in'],['http://www.srmuniv.ac.in/'],"infodesk@srmist.edu.in, - 603 203 ,+91-44- 27417000,+91-44-27417777 ,+91 80 69087000",2
+Central Institute of Higher Tibetan Studies,['cihts.ac.in'],['http://www.cihts.ac.in/'],,2
+Indira Gandhi Agricultural University,['igau.edu.in'],['http://www.igau.edu.in/'],,2
+Acharya Nagarjuna University,['nagarjunauniversity.ac.in'],['http://www.nagarjunauniversity.ac.in/'],,2
+Shri Jagannath Sanskrit University,['sjsv.nic.in'],['http://www.sjsv.nic.in/'],,2
+Bhagwant University,['bhagwantuniversity.com'],['http://www.bhagwantuniversity.com/'],,2
+Rajalakshmi Institute of Technology,['ritchennai.org'],['https://ritchennai.org/'],,2
+University of Kerala,['keralauniversity.ac.in'],['http://www.keralauniversity.ac.in/'],,2
+Parul University,['paruluniversity.ac.in'],['http://www.paruluniversity.ac.in/'],,2
+Thapar Institute of Engineering and Technology,['tiet.ac.in'],['http://www.tiet.ac.in/'],"admissions@thapar.edu,+91-18002024100, 1800 202 4100",2
+Anurag University,['anurag.edu.in'],['https://anurag.edu.in'],,2
+Sister Nivedita University,['snuniv.ac.in'],['https://snuniv.ac.in/'],"info@snuniv.ac.in,- 700156,+91 7595044470,+91 7595044471",2
+Jain Vishva Bharati Institute,['jvbi.ac.in'],['http://www.jvbi.ac.in/'],,2
+Karnatak University,['kud.ac.in'],['http://www.kud.ac.in/'],,2
+Open International University for Alternative Medicines,['altmeduniversity.com'],['http://www.altmeduniversity.com/'],,2
+South Asian University,['southasianuniversity.org'],['http://www.southasianuniversity.org/'],"admission@sau.int,+91-9910496853,+91-9650970295 ",2
+Birla Institute of Technology and Science,['bits-pilani.ac.in'],['http://www.bits-pilani.ac.in/'],,2
+Awadhesh Pratap Singh University,['apsurewa.nic.in'],['http://www.apsurewa.nic.in/'],-239472,2
+Dav University,['davuniversity.org'],['http://www.davuniversity.org/'],"academicaffairs@davuniversity.org,admission@davuniversity.org, 1800-1800-190, 0181-2708841, 18001800190, 7087017551-52",2
+Bharathiar University,['bharathi.ernet.in'],['http://www.bharathi.ernet.in/'],,2
+National Institute of Technology Rourkela,['nitrkl.ac.in'],['http://www.nitrkl.ac.in/'],,2
+Bishop Herber College,['bhc.edu.in'],['https://bhc.edu.in'],,2
+Konkan Agricultural University,['dbskkv.org'],['http://www.dbskkv.org/'],,2
+Patna University,['puonline.bih.nic.in'],['http://puonline.bih.nic.in/'],,2
+Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya,['kanchiuniv.ac.in'],['http://www.kanchiuniv.ac.in/'],+91 9629 00 11 44,2
+"International Institute of Information Technology, Pune",['squareit.edu.in'],['https://www.isquareit.edu.in/'],,2
+University of Kota,['uok.ac.in'],['http://www.uok.ac.in/']," 2017-18,+91-744-2472934 ,+91-744-2472960",2
+Kakatiya University,['kuwarangal.com'],['http://www.kuwarangal.com/'],,2
+Amity University,['amity.edu'],['http://www.amity.edu/'],"infonagpur@aic.amity.edu, 0120-2445252 , 4713600,+91 8448396303 , 0712-6631899 ",2
+MIT World Peace University,['mitwpu.edu.in'],['https://mitwpu.edu.in/'],"admissions@mitwpu.edu.in,+91 20 -7117 7104 ,+91 20-7117 7105,+919881492848 ",2
+Motilal Nehru National Institute Of Technology,['mnnit.ac.in'],['http://www.mnnit.ac.in/'],,2
+Hemwati Nandan Bahuguna Garhwal University,['hnbgu.ac.in'],['http://www.hnbgu.ac.in/'],,2
+Gauhati University,['gu.nic.in'],['http://www.gu.nic.in/'],,2
+Tilak Maharashtra Vidyapeeth,['tmv.edu.in'],['http://www.tmv.edu.in/'],,2
+Symbiosis International University,['siu.edu.in'],['http://www.siu.edu.in/'],,2
+University of Music and Fine Arts,['iksvv.com'],['http://www.iksvv.com/'],"music@unm.edu, 277-4817,04 2570 1 , 87131-0001 ,277-2126 ,277-2127 ",2
+The New College,['thenewcollege.edu.in'],['http://www.thenewcollege.edu.in/'], 487-4750 ,2
+Vinayaka Mission's Research Foundation-Deemed University,['vinayakamissions.com'],['http://www.vinayakamissions.com/'],,2
+Technique Polytechnic Institute,['techniqueedu.com'],['https://www.techniqueedu.com/'],,2
+"ICFAI University, Dehradun",['iudehradun.edu.in'],['https://www.iudehradun.edu.in/'],"admissions@iudehradun.edu.in, 1800-120-8727 ",2
+Goa University,['unigoa.ac.in'],['http://www.unigoa.ac.in/'],,2
+Vidyasagar University,['vidyasagar.ac.in'],['http://www.vidyasagar.ac.in/'],"vidya295@mail.vidyasagar.ac.in, 03222276554",2
+Manipal University,['manipal.edu'],['http://www.manipal.edu/'],,2
+Kohinoor School of Hospitality Management,['kimi.kohinoor.ac.in'],['http://kimi.kohinoor.ac.in/'],,2
+Chennai Institute of Technology,['citchennai.edu.in'],['https://www.citchennai.edu.in/'],,2
+"University of Agricultural Sciences, Dharwad",['uasd.net'],['http://www.uasd.net/'],,2
